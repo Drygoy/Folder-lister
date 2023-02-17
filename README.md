@@ -2,7 +2,7 @@
 
 Simple foleders-lister for pc writed on java language
 
-#How-to-use
+## How-to-use
 
 1.open Main.java in Visual studio code or other IDE
 
@@ -10,5 +10,5 @@ Simple foleders-lister for pc writed on java language
 
 3.Or run list.jar
 
-#How-works
+## How-works
 
