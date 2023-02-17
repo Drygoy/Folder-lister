@@ -12,4 +12,4 @@ Simple foleders-lister for pc writed on java language
 
 ## How-works
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/Drygoy/Folder-lister/blob/main/Preview/Screenshot_1.png)
